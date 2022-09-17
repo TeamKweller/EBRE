@@ -4,3 +4,8 @@ main: cf.bakocodes.essentialsbutreallyessentials.EssentialsbutreallyEssentials
 api-version: 1.19
 authors: [ iusebakoakaaxoldoestwitch ]
 description: Don't want essentials but need some of the commands? This plugin is for YOU!
+commands:
+  feed:
+    description: Feeds the player!
+    usage: /feed
+    aliases: [feedme, obscureyokaiwatchreference]
