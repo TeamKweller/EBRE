@@ -1,0 +1,6 @@
+name: EssentialsbutreallyEssentials
+version: '${project.version}'
+main: cf.bakocodes.essentialsbutreallyessentials.EssentialsbutreallyEssentials
+api-version: 1.19
+authors: [ iusebakoakaaxoldoestwitch ]
+description: Don't want essentials but need some of the commands? This plugin is for YOU!
